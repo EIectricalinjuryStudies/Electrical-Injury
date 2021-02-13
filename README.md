@@ -1,2 +1,2 @@
 # hello-world
-Where the understanding of repeated exposure to high-field electrical injury begins 
+Where understanding pathophysiology of repeated exposure to high-field electricity begins 
